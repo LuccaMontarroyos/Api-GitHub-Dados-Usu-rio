@@ -24,8 +24,7 @@ Project with the aim to show the informations of  the github user that is being 
 ## How to use
 
 ```sh
-    git clone https://github.com/LuccaMontarroyos/.git 
- 
+    git clone https://github.com/LuccaMontarroyos/Api-GitHub-Dados-Usuario.git 
 ```
 open `index.html` in your web browses
 
